@@ -1,3 +1,6 @@
 secret.txt
 *.log
 already-tracked.txt
+
+secret-final.txt
+*.cache
